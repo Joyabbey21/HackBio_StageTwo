@@ -1,13 +1,8 @@
 ## Name: Joy Abiodun  
 ## Team: Glycine  
-## Stage: Two** 
-                        ## **Clear Evidence-Driven Answers**
-
-Name: Joy Abiodun  
-Team: Glycine  
-Stage: Two  
-Clear Evidence-Driven Answers  
-**
+## Stage: Two
+                        
+## Clear Evidence-Driven Answers
 
 ## **1\. What cell types did you identify?**
 
@@ -72,5 +67,6 @@ The dataset does not exhibit features expected in an infected or inflamed state.
 While NK cells and γδ T cells are relatively abundant, such patterns can occur through sample enrichment and do not, by themselves, indicate infection. Overall, the immune landscape appears non-inflammatory, and the data more likely reflects technical enrichment rather than a biological response to infection.
 
 # **Summary Conclusion**
+
 
 The dataset shows distinct immune clusters but lacks the hallmark diversity of bone marrow. The dominance of ILC-like populations and minimal representation of progenitors argue against a marrow origin. Similarly, the distribution of immune cells provides no strong evidence for infection, instead suggesting selective recovery of certain lymphoid subsets.
