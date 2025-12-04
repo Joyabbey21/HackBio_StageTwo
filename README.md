@@ -1,15 +1,13 @@
-# HackBio_StageTwo
-# **README.md**
 
 # **Single-Cell RNA-seq Analysis — HackBio Internship (Stage Two)**
 
 **Author:** *Joy Abiodun*
 **Team:** *Glycine*
-**Stage:** *Two — Clear Evidence-Driven Answers*
+**Stage:** *Two*
 
 ---
 
-# ** Project Overview**
+# Project Overview
 
 This repository contains my complete single-cell RNA-seq analysis for the **HackBio Internship Stage Two Single-Cell RNA-seq task**.
 The aim of this project was to analyze a provided `.h5ad` file, identify immune cell types, determine whether the sample originates from bone marrow, and evaluate if the patient shows signs of infection or inflammation.
@@ -18,7 +16,7 @@ The workflow is entirely reproducible, uses standard computational biology metho
 
 ---
 
-# ** Biological Questions Addressed**
+# Biological Questions Addressed
 
 This project answers four key questions:
 
@@ -29,7 +27,7 @@ This project answers four key questions:
 
 ---
 
-# ** Key Findings**
+# Key Findings
 
 ## **Identified Cell Types (with relative abundance)**
 
@@ -93,7 +91,7 @@ The immune system appears **non-inflamed**.
 
 ---
 
-# ** Directory Structure**
+## Directory Structure
 
 ```
 project/
@@ -115,7 +113,7 @@ project/
 
 ---
 
-# ** Software Dependencies (Exact Versions)**
+## Software Dependencies (Exact Versions)
 
 ```
 Python 3.10
@@ -142,11 +140,11 @@ pip install scanpy anndata decoupler celltypist igraph fa2-modified crc32c scrub
 
 ---
 
-# ** 7. How to Run the Notebook**
+## 7. How to Run the Notebook
 
 The notebook installs all dependencies *inside the notebook itself*, downloads the dataset with `wget`, and runs end-to-end without requiring any external steps.
 
-### ** Option A — Run on Google Colab (recommended)**
+### Option A — Run on Google Colab (recommended)
 
 1. Upload **Stage2_code.ipynb**
 2. Run all cells **sequentially** (top to bottom)
@@ -166,7 +164,7 @@ The notebook installs all dependencies *inside the notebook itself*, downloads t
 4. All plots will render automatically in the output
 5. You can save any figure using the standard Google Colab "Download" option
 
-### ** Option B — Run Locally (Jupyter Notebook)**
+### Option B — Run Locally (Jupyter Notebook)
 
 1. Install Python 3.10
 2. Install the dependencies manually using the `pip install` command above
@@ -187,7 +185,7 @@ The notebook is fully reproducible because the code:
 
 ---
 
-# **📌 Summary of What This Notebook Produces**
+# Summary of What This Notebook Produces
 
 After running the notebook, you will obtain:
 
