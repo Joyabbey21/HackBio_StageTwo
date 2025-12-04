@@ -97,7 +97,7 @@ The immune system appears **non-inflamed**.
 project/
 │
 ├── notebooks/
-│   └── Stage2_code.ipynb       # Full analysis notebook (your exact workflow)
+│   └── Stage2_code.ipynb       # Full analysis notebook
 │
 ├── data/
 │   └── bone_marrow.h5ad        # Input dataset (downloaded inside notebook)
